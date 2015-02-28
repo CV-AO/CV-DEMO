@@ -1,0 +1,5 @@
+sentence1:  だ から 。
+wseq1: <s> だ+助動詞 から+助詞 </s>
+phseq1: silB | d a | k a r a | silE
+cmscore1: 0.553 0.442 0.018 1.000
+score1: -19341.943359 (AM: -19286.265625  LM: -55.678440)

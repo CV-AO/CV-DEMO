@@ -1,0 +1,5 @@
+sentence1:  おはよう ござい ます 。
+wseq1: <s> おはよう+感動詞 ござい+動詞 ます+助動詞 </s>
+phseq1: silB | o h a y o: | g o z a i | m a s u | silE
+cmscore1: 0.663 0.748 0.902 0.524 1.000
+score1: -8216.339844 (AM: -8151.702148  LM: -64.637756)

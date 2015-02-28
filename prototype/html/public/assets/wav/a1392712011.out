@@ -1,0 +1,5 @@
+sentence1:  Ｎ 。
+wseq1: <s> Ｎ+記号 </s>
+phseq1: silB | e n u | silE
+cmscore1: 0.374 0.309 1.000
+score1: -54044.843750 (AM: -53976.929688  LM: -67.914474)

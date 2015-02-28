@@ -1,0 +1,5 @@
+sentence1:  うん 。
+wseq1: <s> うん+感動詞 </s>
+phseq1: silB | u N | silE
+cmscore1: 0.704 0.034 1.000
+score1: -10660.848633 (AM: -10603.183594  LM: -57.665245)

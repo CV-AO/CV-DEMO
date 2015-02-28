@@ -1,0 +1,5 @@
+sentence1:  あら 、 こんにちは 。
+wseq1: <s> あら+感動詞 、+補助記号 こんにちは+感動詞 </s>
+phseq1: silB | a r a | sp | k o N n i ch i w a | silE
+cmscore1: 0.304 0.032 0.976 0.505 1.000
+score1: -22163.525391 (AM: -22076.839844  LM: -86.686325)

@@ -1,0 +1,5 @@
+sentence1:  。
+wseq1: <s> </s>
+phseq1: silB | silE
+cmscore1: 0.229 1.000
+score1: -42395.375000 (AM: -42340.765625  LM: -54.609192)

@@ -1,0 +1,5 @@
+sentence1:  初 投稿 を 含む 。
+wseq1: <s> 初+名詞 投稿+名詞 を+助詞 含む+動詞 </s>
+phseq1: silB | h a ts u | t o: k o: | o | f u k u m u | silE
+cmscore1: 0.377 0.525 0.210 0.840 0.003 1.000
+score1: -8795.447266 (AM: -8656.674805  LM: -138.772232)

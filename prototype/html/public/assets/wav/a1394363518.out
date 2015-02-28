@@ -1,0 +1,5 @@
+sentence1:  こんばんは 。
+wseq1: <s> こんばんは+感動詞 </s>
+phseq1: silB | k o N b a N w a | silE
+cmscore1: 0.526 0.565 1.000
+score1: -19770.955078 (AM: -19705.925781  LM: -65.028534)
