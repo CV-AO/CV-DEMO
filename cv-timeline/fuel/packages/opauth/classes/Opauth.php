@@ -139,11 +139,11 @@ class Opauth {
 			}
 		}
 		
-		if (!empty($this->env['params'][0])) {
-			$this->env['params']['strategy'] = $this->env['params'][0];
-		}
 		if (!empty($this->env['params'][1])) {
-			$this->env['params']['action'] = $this->env['params'][1];
+			$this->env['params']['strategy'] = $this->env['params'][1];
+		}
+		if (!empty($this->env['params'][2])) {
+			$this->env['params']['action'] = $this->env['params'][2];
 		}
 	}
 	
